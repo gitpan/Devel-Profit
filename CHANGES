@@ -1,4 +1,7 @@
 Revision history for Perl module Devel::Profit:
 
+0.33 Tue May 20 00:17:57 JST 2008
+     - whoops, include the XS file (spotted by Jesse Vincent)
+
 0.32 Mon May 19 08:04:09 JST 2008
      - initial release
